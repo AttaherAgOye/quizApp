@@ -10,4 +10,4 @@ class AudioService {
   static Future<void> playWrong() async {
     await _player.play(AssetSource('sounds/wrong.mp3'));
   }
-} 
+}

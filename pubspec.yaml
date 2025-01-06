@@ -34,6 +34,7 @@ dependencies:
   path: ^1.8.3
   provider: ^6.0.5
   audioplayers: ^5.2.1
+  video_player: ^2.8.2
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -96,3 +97,4 @@ flutter:
   assets:
     - assets/sounds/correct.mp3
     - assets/sounds/wrong.mp3
+    - assets/videos/background.mp4
